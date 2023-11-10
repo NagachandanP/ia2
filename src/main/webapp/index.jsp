@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mr. Camel</title>
+  <title>231047028</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
@@ -96,7 +96,7 @@
 <body>
   <div class="container">
     <header class="header">
-      <h1>Mr. Camel</h1>
+      <h1>Mr. Nagachandan P</h1>
       <div class="social">
         <a href="#"><i class="fab fa-facebook"></i></a>
         <a href="#"><i class="fab fa-instagram"></i></a>
@@ -112,7 +112,7 @@
         <li><a href="#about">About</a></li>
       </ul>
       <br><br>
-      <p>"Do something important in life. I convert green grass to code."<br>- Mr Camel</p>
+      <p>"Do something important in life. I convert green grass to code."<br>Mr. Nagachandan P</p>
     </aside>
     <main class="content">
       <h2>About Me</h2>
@@ -123,9 +123,9 @@
       <h2>How Can I Help You?</h2>
       <table>
         <tr>
-          <th>SKILL 1</th>
-          <th>SKILL 2</th>
-          <th>SKILL 3</th>
+          <th>C programming </th>
+          <th>Java</th>
+          <th>Python</th>
         </tr>
         <tr>
           <td><i class="fas fa-broom"></i></td>
